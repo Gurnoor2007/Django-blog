@@ -1,2 +1,2 @@
-# Django-blog
-Django Blog Maked With Code with Harry
+# Django-blog-Website
+- Django Blog Website Developed With CodeWithHarry
